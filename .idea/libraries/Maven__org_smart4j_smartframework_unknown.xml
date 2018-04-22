@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.smart4j:smartframework:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/smart4j/smartframework/unknown/smartframework-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/smart4j/smartframework/unknown/smartframework-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/smart4j/smartframework/unknown/smartframework-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
